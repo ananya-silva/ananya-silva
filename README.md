@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="profile-banner.png" width="100%" alt="Ananya Silva - Turning Ideas into Reality"/>
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=250&color=75D1FF&width=290&height=35&lines=Hi!!!++I'm+Ananya+Silva" alt="Typing SVG" />
   </a>
