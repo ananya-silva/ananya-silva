@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya Silva</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=250&color=75D1FF&width=290&height=35&lines=Hi!!!;I'm+Ananya+Silva)](https://git.io/typing-svg)
 <h3 align="center">Passionate Software Engineering undergraduate </h3>
 
 ---
