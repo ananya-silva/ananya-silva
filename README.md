@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png" width="100%" alt="Ananya Silva - Turning Ideas into Reality"/>
+  <img src="./Ananya%20Silva.png" width="100%" alt="Ananya Silva Profile Banner"/>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
